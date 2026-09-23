@@ -1,0 +1,14 @@
+{
+  "name": "lab-6",
+  "version": "1.0.0",
+  "description": "FSD Lab 6 - Static Web Server",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Krishna Porwal",
+  "license": "ISC"
+}

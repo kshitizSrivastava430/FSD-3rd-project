@@ -1,0 +1,14 @@
+{
+  "name": "lab-2",
+  "version": "1.0.0",
+  "description": "FSD Lab 2 - File System Operations",
+  "main": "fileDemo.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fileDemo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Krishna Porwal",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "FSD Lab 1 - Events and Event Loop",
+  "main": "event-emmiter.js",
+  "type": "module",
+  "scripts": {
+    "start": "node event-emmiter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Krishna Porwal",
+  "license": "ISC"
+}

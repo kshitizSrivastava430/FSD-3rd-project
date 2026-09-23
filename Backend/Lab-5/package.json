@@ -1,0 +1,17 @@
+{
+  "name": "lab-5",
+  "version": "1.0.0",
+  "description": "FSD Lab 5 - Express Student REST API",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Krishna Porwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
