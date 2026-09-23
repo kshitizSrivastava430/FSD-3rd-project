@@ -1,8 +1,8 @@
 # Full Stack Development (FSD) Workshop - CSE-22 (2nd Year)
 
-**Developer:** Krishna Porwal  
+**Developer:** Kshitiz Srivastava 
 **Program:** CSE-22, 2nd Year  
-**Repository:** [github.com/krishporwal011/FSD--ND-Year-Krishna-porwal-CSE-22](https://github.com/krishporwal011/FSD--ND-Year-Krishna-porwal-CSE-22.git)
+**Repository:** 
 
 ---
 
