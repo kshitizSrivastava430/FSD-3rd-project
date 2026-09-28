@@ -146,4 +146,5 @@ Author
 *Kshitiz Srivastava *
 
 • Email: kshitizs568@gmail.com
-• GitHub: kshitizSrivastava430
+
+• GitHub: @kshitizSrivastava430
