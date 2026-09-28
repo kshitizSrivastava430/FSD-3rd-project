@@ -142,6 +142,8 @@ node optional.js
 
 ## 👤 Author
 
-**Krishna Porwal**  
-- Email: [krishporwal486@gmail.com](mailto:krishporwal486@gmail.com)  
-- GitHub: [@krishporwal011](https://github.com/krishporwal011)
+Author  
+*Kshitiz Srivastava *
+
+• Email: kshitizs568@gmail.com
+• GitHub: kshitizSrivastava430
